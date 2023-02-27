@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DevanshR1123
-- 👀 I’m interested in ... Web Dev, Gaming, and Movies
+- 👀 I’m interested in ...AI/ML, Data Science, Web Dev, Gaming, and Movies
 - 🌱 I’m currently learning ... C++ via Competitive Programming
 - 💞️ I’m looking to collaborate on ... Full Stack Web App
 - 📫 How to reach me ... [Linkedin](linkedin.com/in/devanshr1123)
